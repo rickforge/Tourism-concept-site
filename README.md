@@ -3,7 +3,7 @@
 A tourism concept website built using the Bulma CSS framework.
 The project focuses on responsive design, layout structure and reusable UI components.
 
-![Preview](.preview.webp)
+![Preview](./preview.webp)
 
 ## Features
 
